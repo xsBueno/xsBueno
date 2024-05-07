@@ -13,3 +13,5 @@ Meu nome e : Isaque Felizardo Da Silva Bueno 🇧🇷
 ### Voce pode entrar em contato comigo atarves 📧
 
 00001116856578sp@al.educacao.sp.gov.br
+
+https://media1.tenor.com/m/fDmbB3U_JSEAAAAC/qsmp.gif
