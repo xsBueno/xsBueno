@@ -2,7 +2,7 @@
 
 Meu nome e : Isaque Felizardo Da Silva Bueno 🇧🇷
 
--Estou estudando no alura 
+-Estou estudando no (https://ww.alura,com,br)
 
 -Estou me desenvolvendo na linguagem javaScript
 
