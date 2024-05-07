@@ -3,8 +3,11 @@
 Meu nome e : Isaque Felizardo Da Silva Bueno 🇧🇷
 
 -Estou estudando no alura 
+
 -Estou me desenvolvendo na linguagem javaScript
+
 -Utiliso esse espaco para minha organizacao 
+
 -E para compartilhar meus progetos que venho desenvolvendo
 
 ### Voce pode entrar em contato comigo atarves 📧
